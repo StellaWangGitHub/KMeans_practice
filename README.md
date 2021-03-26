@@ -1,2 +1,3 @@
-# KMeans_practice
+# kmeans_practice
+
 Pokemon Clustering
